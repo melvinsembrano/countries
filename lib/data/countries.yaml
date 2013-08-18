@@ -5511,16 +5511,16 @@ MO:
   ioc:
   latitude: 22 10 N
   longitude: 113 33 E
-  name: Macao
+  name: Macau
   names:
-  - Macao
+  - Macau
   - マカオ
   translations:
-    en: Macao
-    it: Macao
-    de: Macao
-    fr: Macao
-    es: Macao
+    en: Macau
+    it: Macau
+    de: Macau
+    fr: Macau
+    es: Macau
     ja: マカオ
   national_destination_code_lengths:
   - 2
